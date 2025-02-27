@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ALYANXG
+- 👀 I’m interested in Ai 
+- 🌱 I’m currently learning Ai
