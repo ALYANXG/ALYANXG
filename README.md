@@ -76,8 +76,15 @@
 
 <table align="center" width="100%">
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4><a href="https://github.com/ALYANXG/SOC-DFIR-Dashboard">SENTINEL SOC // DFIR Tactical Command Center</a></h4>
+      <p>Military-grade SOC and DFIR Tactical War-Room. Real-time attack surface telemetry, dynamic SVG attack path visualization, live remote SSH host forensics triage (.bash_history and /etc/passwd auditing), automated CVE exploit correlation, and executive PDF briefing export.</p>
+      <code>Python</code> <code>Flask</code> <code>SOC</code> <code>DFIR</code> <code>Forensics</code> <code>Nmap</code> <code>MITRE-ATT&CK</code> <code>SVG-Topology</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/ALYANXG/CLI_SECRET_AND_API_KEY_DETECTOR-TOOL">🔍 CLI Secret & API Key Detector</a></h4>
+      <h4><a href="https://github.com/ALYANXG/CLI_SECRET_AND_API_KEY_DETECTOR-TOOL">CLI Secret & API Key Detector</a></h4>
       <p>Hardcoded secrets, API keys, tokens aur passwords scan karne ke liye production-ready CLI scanner with Regex, Shannon Entropy aur custom patterns.</p>
       <code>Python</code> <code>CLI</code> <code>Security</code> <code>Entropy-Scan</code>
     </td>
